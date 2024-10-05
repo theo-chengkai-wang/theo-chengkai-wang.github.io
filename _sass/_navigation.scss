@@ -172,6 +172,13 @@
    Priority plus navigation
    ========================================================================== */
 
+.space-between-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1em;
+}
+
 .greedy-nav {
   position: relative;
   min-width: 250px;
@@ -210,8 +217,8 @@
       vertical-align: middle;
 
       &:first-child {
-        font-weight: bold;
-        text-wrap: wrap;
+        // font-weight: bold;
+        // text-wrap: wrap;
 
         a {
           margin-left: 0;

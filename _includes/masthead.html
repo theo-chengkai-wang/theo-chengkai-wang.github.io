@@ -3,10 +3,10 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
+      <nav id="site-nav" class="greedy-nav space-between-nav">
         <button><div class="navicon"></div></button>
+        <div class="title_item masthead__menu-item masthead__menu-item--lg"><a id="title_link" href="{{ base_path }}/">{{ site.title }}</a></div>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
