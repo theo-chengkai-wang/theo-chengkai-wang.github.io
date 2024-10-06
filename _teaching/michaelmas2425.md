@@ -6,8 +6,6 @@ permalink: /teaching/michaelmas2425
 venue: "Churchill College, Cambridge"
 date: 2024-01-01
 location: "Cambridge, UK"
-share: false
-paginate: false
 ---
 
 Supervisions for Churchill College in Michaelmas 2024.

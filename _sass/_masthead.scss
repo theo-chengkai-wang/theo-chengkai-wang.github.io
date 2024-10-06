@@ -64,7 +64,7 @@
   }
 }
 
-.title_item, .small_title_item > a {
+.title_item > a, .small_title_item > a {
   position: relative;
 
   &:before {

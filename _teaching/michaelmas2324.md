@@ -6,8 +6,6 @@ permalink: /teaching/michaelmas2324
 venue: "Magdalene and Murray Edwards Colleges, Cambridge"
 date: 2023-01-01
 location: "Cambridge, UK"
-share: false
-paginate: false
 ---
 
 Supervisions for Magdalene and Murray Edwards Colleges in Michaelmas 2023.
