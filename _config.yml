@@ -21,7 +21,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic_2024_10.jpg"
   name             : "Théo Chengkai Wang (王程凯)"
   pronouns         : # example: "she/her"  
   bio              : "Research Intern at the Max Planck Institute for Security and Privacy."
