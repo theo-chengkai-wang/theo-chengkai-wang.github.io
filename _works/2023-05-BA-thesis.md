@@ -1,9 +1,9 @@
 ---
 title: "Type Safe Multi-Stage Programming with Lys"
 collection: works
-category: theses
-permalink: /work/2023-05-BA-thesis
-excerpt: 'Thesis for my BA in Computer Science in Cambridge. We design and implement Lys, a multi-stage programming (MSP) language based on contextual modal type theory, and explore its expressivity in comparison to other MSP paradigms such as MetaOCaml.'
+category: main
+permalink: /works/2023-05-BA-thesis
+excerpt: 'Thesis for my BA in Computer Science in Cambridge supervised by Jeremy Yallop and Alan Mycroft. We design and implement Lys, a multi-stage programming (MSP) language based on contextual modal type theory, and explore its expressivity in comparison to other MSP paradigms such as MetaOCaml.'
 date: 2023-05-12
 # venue: 'Thesis'
 label: 'Bachelor Thesis, University of Cambridge'
