@@ -65,6 +65,13 @@
 }
 
 .title_item {
+  display: none;
+  visibility: hidden;
+
+  @include breakpoint($small) {
+    display: block;
+    visibility: visible;
+  }
   a {
     position: relative;
 
