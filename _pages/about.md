@@ -13,7 +13,7 @@ Hi, welcome to my site ;-; This is the home page.
 About me
 -------
 
-My name is Théo Chengkai Wang (王程凯). I am currently a Research Intern at the Max Planck Institute for Security and Privacy, under the supervision of Gilles Barthe. I have just completed my MSc in Advanced Computer Science at the University of Oxford, and my undergraduate degree in Computer Science at the University of Cambridge. 
+My name is Théo Chengkai Wang (王程凯). I am currently a Research Intern at the Max Planck Institute for Security and Privacy, under the supervision of [Gilles Barthe](https://gbarthe.github.io/). I have just completed my MSc in Advanced Computer Science at the University of Oxford (thesis supervised by [Sam Staton](https://www.cs.ox.ac.uk/people/samuel.staton/main.html)), and my undergraduate degree in Computer Science at the University of Cambridge (thesis supervised by [Jeremy Yallop](https://www.cl.cam.ac.uk/~jdy22/)). 
 
 I identify as a theoretical computer scientist studying abstract things. My current interests span across programming language theory, quantum computing, and category theory. Recently I also got interested in mechanistic interpretability, which I'm exploring in my spare time. 
 
