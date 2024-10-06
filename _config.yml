@@ -9,6 +9,7 @@
 # Basic Site Settings
 locale                   : "en-UK"
 title                    : "Théo Wang's Personal Website"
+small_title              : "TCW's Website"
 title_separator          : "-"
 name                     : &name "Théo Wang"
 description              : &description "Research Intern at the Max Planck Institute for Security and Privacy."

@@ -174,13 +174,12 @@
 
 .space-between-nav {
   display: flex;
-  justify-content: right;
+  justify-content: space-between;
   align-items: center;
   margin-bottom: 1em;
   flex-wrap: wrap;
-  @include breakpoint($small) {
-    justify-content: space-between;
-  }
+  // @include breakpoint($small) {
+  // }
 }
 
 .greedy-nav {
