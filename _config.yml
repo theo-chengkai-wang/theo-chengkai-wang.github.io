@@ -13,7 +13,7 @@ small_title              : "TCW"
 title_separator          : "-"
 name                     : &name "Théo Wang"
 description              : &description "Research Intern at the Max Planck Institute for Security and Privacy."
-url                      : https://theo-chengkai-wang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://theo.wang # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 # repository               : "academicpages/academicpages.github.io"
 
