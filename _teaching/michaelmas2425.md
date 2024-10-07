@@ -1,5 +1,5 @@
 ---
-title: "Semantics of Programming Languages Supervisions, Michaelmans 2024"
+title: "Semantics of Programming Languages Supervisions, Michaelmas 2024"
 collection: teaching
 type: "Supervision"
 permalink: /teaching/michaelmas2425
