@@ -12,7 +12,7 @@ Supervisions for Churchill College in Michaelmas 2024.
 
 Supervision 1
 ======
-TBD.
+Sheet [here](/files/supo/michaelmas2425/SV1.pdf).
 
 Supervision 2
 ======
