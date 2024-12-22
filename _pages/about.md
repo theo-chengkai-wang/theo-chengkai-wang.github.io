@@ -21,6 +21,7 @@ One day, the abstract things I create will be worthy of the name of 'abstract no
 
 News
 -------
+- _Jan 25_: I am going to POPL 2025! Feel free to reach out if you are also going!
 - _Dec 24_: I am starting a research assistantship with Jeremy Yallop at the University of Cambridge, working on metaprogramming and causal probabilistic programming languages.
 - _Sept 24_: I am interning with Gilles Barthe (again) at MPI-SP in Bochum (Germany), this time working on quantum verification.
 - _Sept 24_: I have submitted my master's thesis on Algebraic Theories and Quantum Communication. I will also be leaving Oxford.
