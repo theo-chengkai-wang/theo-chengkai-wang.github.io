@@ -16,8 +16,8 @@ Sheet [here](/files/supo/michaelmas2425/SV1.pdf).
 
 Supervision 2
 ======
-TBD.
+Sheet [here](/files/supo/michaelmas2425/SV2.pdf).
 
 Supervision 3
 ======
-TBD.
+Sheet [here](/files/supo/michaelmas2425/SV3.pdf).
