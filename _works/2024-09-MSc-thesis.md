@@ -3,12 +3,12 @@ title: "Algebraic Theories and Quantum Communication"
 collection: works
 category: main
 permalink: /works/2024-09-MSc-thesis
-excerpt: 'Thesis Project for my MSc in Advanced Computer Science at Oxford supervised by Sam Staton. This thesis gives an algebraic formulation to classically controlled quantum communication. Presented at PLanQC 2025.'
+excerpt: 'Thesis for my MSc in Advanced Computer Science at Oxford supervised by Sam Staton. This thesis gives an algebraic formulation to classically controlled quantum communication.'
 date: 2024-09-10
 # venue: 'Thesis'
-label: "Master's Thesis, University of Oxford; PLanQC 2025 Extended Abstract"
+label: "Master's Thesis, University of Oxford"
 collaborators: [{name: "Sam Staton", url: "https://www.cs.ox.ac.uk/people/samuel.staton/main.html"}]
-urls: [{name: "[PDF]Thesis", url: "/files/works/2024_09_Oxford_Thesis.pdf"}, {name: "[PDF]Extended Abstract at PLanQC", url: "/files/works/2025_01_PLanQC.pdf"}, {name: "[PDF]Slides at PLanQC", url: "/files/works/2025_01_PLanQC_slides.pdf"}]
+urls: [{name: "[PDF]Thesis", url: "/files/works/2024_09_Oxford_Thesis.pdf"}]
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
