@@ -12,7 +12,7 @@ title                    : "Théo Wang's Personal Website"
 small_title              : "TCW"
 title_separator          : "-"
 name                     : &name "Théo Wang"
-description              : &description "Research Intern at the University of Cambridge."
+description              : &description "Research Intern at the University of Edinburgh."
 url                      : https://theo.wang # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 # repository               : "academicpages/academicpages.github.io"
@@ -25,9 +25,9 @@ author:
   avatar           : "profile_pic_2024_10.jpg"
   name             : "Théo Chengkai Wang (王程凯)"
   pronouns         : # example: "she/her"  
-  bio              : "Research Assistant at the University of Cambridge."
+  bio              : "Research Assistant at the University of Edinburgh."
   location         : "Cambridge, United Kingdom"
-  employer         : "Department of Computer Science and Technology, Cambridge"
+  employer         : 
   uri              : # URL
   email            : "tcw57@cam.ac.uk" 
 
