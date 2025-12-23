@@ -21,7 +21,7 @@ I identify as a theoretical computer scientist studying abstract things. My curr
 
 News
 --------
-- _Dec 25_: I will attend LAFI 2026 in January to present our work [_Typed Abstractions for Causal Probabilistic Programming_](/_works/2025-12-LAFI)! 
+- _Dec 25_: I will attend LAFI 2026 in January to present our work [_Typed Abstractions for Causal Probabilistic Programming_](/works/2025-12-LAFI)! 
 - _Oct 25_: I started a DPhil (PhD) at Oxford with Sam Staton! 
 - _Apr 25_: Our paper [_Complete Quantum Relational Hoare Logics from Optimal Transport Duality_](/works/2024-09-bochum) was accepted at LICS 2025! 
 - _Mar 25_: I attended the ACM symposium on computer science and law (CS&Law) 2025.
