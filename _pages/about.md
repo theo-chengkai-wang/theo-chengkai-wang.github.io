@@ -21,8 +21,8 @@ I identify as a theoretical computer scientist studying abstract things. My curr
 
 News
 --------
-- _Oct 26_: Our paper [_From Structural Causal Models to Higher Order Causal Probabilistic Programming_](/works/2026-10-POPL) was accepted to POPL 2027! 
-- _Dec 25_: I will attend LAFI 2026 in January to present our work [_Typed Abstractions for Causal Probabilistic Programming_](/_works/2026-01-LAFI)! 
+- _Oct 26_: Our paper [_From Structural Causal Models to Higher Order Causal Probabilistic Programming_](/works/2026-10-POPL) was conditionally accepted to POPL 2027! 
+- _Dec 25_: I will attend LAFI 2026 in January to present our work [_Typed Abstractions for Causal Probabilistic Programming_](/works/2026-01-LAFI)! 
 - _Oct 25_: I started a DPhil (PhD) at Oxford with Sam Staton! 
 - _Apr 25_: Our paper [_Complete Quantum Relational Hoare Logics from Optimal Transport Duality_](/works/2024-09-bochum) was accepted at LICS 2025! 
 - _Mar 25_: I attended the ACM symposium on computer science and law (CS&Law) 2025.
